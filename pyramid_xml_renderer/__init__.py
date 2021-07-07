@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from time import time
-from serializer import dumps
+from pyramid_xml_renderer.serializer import dumps
 
 
 class XML(object):
